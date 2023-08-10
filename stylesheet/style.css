@@ -1346,10 +1346,10 @@ input::-webkit-input-placeholder {
     background-size: cover;
 }
 .background-empty {
-    padding-top: 190px;
+    padding-top: 0px;
 }
 .footer {
-    padding: 125px 0 138px 0;
+    padding: 125px 0 50px 0;
     overflow: hidden;
     position: relative;
 }
